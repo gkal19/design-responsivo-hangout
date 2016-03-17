@@ -1,6 +1,6 @@
 body {
-	background: black;
-	background-image: url(universo.jpg)
+	background-color: black;
+	background-image: url(universo.jpg);
 	background-repeat: no-repeat;
 }
 
@@ -10,8 +10,8 @@ body {
 
 @media screen and (max-width: 760px){
 	body {
-	background: black;
-	background-image: url(terra.jpg)
+	background-color: black;
+	background-image: url(terra.jpg);
 	background-repeat: no-repeat;
 }
 
