@@ -1,0 +1,21 @@
+body {
+	background: black;
+	background-image: url(universo.jpg)
+	background-repeat: no-repeat;
+}
+
+.hierarquias{
+	color:green;
+}
+
+@media screen and (max-width: 760px){
+	body {
+	background: black;
+	background-image: url(terra.jpg)
+	background-repeat: no-repeat;
+}
+
+.hierarquias{
+	color:red;
+}
+}
